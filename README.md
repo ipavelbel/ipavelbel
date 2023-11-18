@@ -10,10 +10,12 @@
 
 ---
 ### Hi there, I'm Pavel👋
+#### Java developer skilled in team-based [microservices](https://github.com/ipavelbel/CorporationX) (Spring, Hibernate, SQL databases) and event-driven architecture (Redis, Kafka) development with a group of engineers using SCRUM. 
 ---
 ### :man_technologist: About Me :
 
-- :telescope: I’m a Software Engineer.
+- :telescope: I’m a Junior Software Engineer.
+- :book: 5 years of experience as an engineer in sports science
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
 ---
