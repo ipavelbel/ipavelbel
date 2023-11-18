@@ -1,3 +1,16 @@
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e470idbmch7ljtdi7rzshch8iz2djbz4u8xlaytoih9&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250"/>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/pavel-belavus/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="ipavelbelavus@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+</div>
+
+---
 ### Hi there, I'm Pavel👋
 ---
 ### :man_technologist: About Me :
