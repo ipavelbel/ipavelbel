@@ -15,7 +15,6 @@
 
 - :telescope: I’m a Software Engineer.
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ipavelbelavus@gmail.com)
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
