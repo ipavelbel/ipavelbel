@@ -14,7 +14,7 @@
 ---
 ### :man_technologist: About Me :
 
-- :telescope: I’m a Junior Software Engineer.
+- :telescope: I’m a Software Engineer.
 - :book: 5 years of experience as an engineer in sports science
 - :zap: In my free time, I solve problems on LeetCode and read tech articles.
 
